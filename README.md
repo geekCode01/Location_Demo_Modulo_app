@@ -1,2 +1,2 @@
 # Location_Demo_Modulo_app
-![image](location.png)
+![image](location.jpg)
