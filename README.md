@@ -1,2 +1,2 @@
 # Location_Demo_Modulo_app
-<image href="location.jpeg" alt="ss">
+<image href="/images/location.jpeg" alt="ss">
