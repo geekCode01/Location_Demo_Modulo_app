@@ -1,2 +1,2 @@
 # Location_Demo_Modulo_app
-![a](/images/location.jpeg) ![b](/images/location-2.jpeg) ![c](/images/location-3.jpeg) ![d](/images/location-4.jpeg)
+<image href="location.jpeg" alt="ss">
